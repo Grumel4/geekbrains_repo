@@ -1,0 +1,21 @@
+Geekbrains
+
+*основные команды git*
+
+git --version
+git -dir
+
+
+git init
+
+
+git add <file>
+
+
+git log
+git status
+
+
+git branch
+git commit
+
