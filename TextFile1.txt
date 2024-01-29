@@ -1,19 +1,20 @@
-Geekbrains
+***Geekbrains***
 
-*основные команды git*
+**основные команды git**
 
-git --version
+
+git --version  *команда для проверки версии git*
 git -dir
 
 
-git init
+git init		*инициализация*
 
 
-git add <file>
+git add <file>	*команда сохранения изменений*
 
 
-git log
-git status
+git log		*команда просмотра сохраненых изменений*
+git status	*команда просмотра подконтрольной ветки*
 
 
 git branch
